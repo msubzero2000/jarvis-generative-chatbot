@@ -1,0 +1,10 @@
+pyaudio
+boto3
+SpeechRecognition
+requests
+pyttsx3
+playsound
+google-cloud
+google-cloud-vision
+google-cloud-speech
+contractions
